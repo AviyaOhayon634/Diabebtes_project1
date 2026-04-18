@@ -1,0 +1,6 @@
+/checkpoints
+/logs
+/lightning_logs
+/research_images
+/results
+*.pkl
